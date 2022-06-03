@@ -1,3 +1,25 @@
 # Paper_3
-En este repositorio vamos a escribir el paper 3;
-este es el programa que incluye los términos que vienen del potencial de SW y el ruido térmico (ruido blanco), usando el método de Euler-Maruyama para resolver la ecuación diferencial parcial estocástica
+
+- *01_LSA_code*
+
+  This is the new code with SW free energy functions and white-noise thermal fluctuations, using the Euler-Maruyama method to solve the stochastic differential equations.
+
+
+- *simulation_script.ipynb* 
+
+  The code from Raquel and Ricardo's project
+
+
+- *simulation_script_v2_Gael.ipynb*
+
+  The code augmented by Gael
+
+Directories:
+
+- *PDF_docs*
+
+  Keeps PDF copies of projects and thesis from the group
+
+- *Mathematica_linear_stability_analysis*
+
+  Keeps Mathematica notebooks with the actual LSA performed by Erick
