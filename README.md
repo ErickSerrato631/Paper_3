@@ -1,8 +1,8 @@
 # Paper_3
 
-- *01_LSA_code*
+- *01_LSA_plots*
 
-  This is the new code with SW free energy functions and white-noise thermal fluctuations, using the Euler-Maruyama method to solve the stochastic differential equations.
+  This is the new code that plots the figures showing the linear stability analysis for the Fourier modes.
 
 
 - *simulation_script.ipynb* 
