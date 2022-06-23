@@ -4,6 +4,10 @@
 
   This is the new code that plots the figures showing the linear stability analysis for the Fourier modes.
 
+- *02_Simulation.ipynb* 
+  Jupyter notebook with the finite-difference solution to the nonlinear dynamics of NP mixed with LC.
+
+This is the new code that plots the figures showing the linear stability analysis for the Fourier modes.
 
 - *simulation_script.ipynb* 
 
